@@ -1,12 +1,5 @@
 let url = "https://jsonplaceholder.typicode.com/photos";
 
-// Object { albumId: 1, id: 1, 
-//title: "accusamus beatae ad facilis cum similique qui sunt", … }
-// albumId: 1 ​​​
-// id: 1​​​
-// thumbnailUrl: "https://via.placeholder.com/150/92c952"​​​
-// title: "accusamus beatae ad facilis cum similique qui sunt"
-// url: "https://via.placeholder.com/600/92c952"
 
 // g-s-item1
 let gsItem1 = document.querySelectorAll('.g-s-item1');

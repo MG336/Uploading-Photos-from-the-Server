@@ -1,5 +1,7 @@
 
-
+body{
+  font-family: sans-serif;
+}
 
 * {
   box-sizing: border-box;
@@ -15,6 +17,9 @@
   display: flex;
   border: 2px solid rgb(0, 0, 0);
   flex-wrap: wrap;
+}
+.g-server__title{
+  text-transform: uppercase;
 }
 .g-s-item1 {
   height: 240px;
